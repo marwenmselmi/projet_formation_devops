@@ -1,7 +1,7 @@
 node {
 
 stage('SCM'){
- git 'https://github.com/marwenmselmi/Projet_formation.git'
+ git 'https://github.com/marwenmselmi/projet_formation_devops.git'
 }
 
 stage('Compile'){
